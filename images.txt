@@ -8,3 +8,4 @@ xhofe/alist:latest
 #需要添加的库
 wordpress:6.5.4-fpm
 mysql:8
+getmeili/meilisearch:v1.8
