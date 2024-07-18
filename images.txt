@@ -9,3 +9,4 @@ xhofe/alist:latest
 wordpress:6.5.4-fpm
 mysql:8
 getmeili/meilisearch:v1.8
+wpeverywhere/frankenwp:latest-php8.3
