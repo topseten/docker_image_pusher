@@ -11,3 +11,4 @@ mysql:8
 getmeili/meilisearch:v1.8
 wpeverywhere/frankenwp:latest-php8.3
 mariadb:latest
+flowise/flowise
