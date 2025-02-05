@@ -35,3 +35,4 @@ ghcr.io/immich-app/immich-machine-learning:v1.111.0
 ghcr.io/immich-app/immich-server:v1.111.0
 searxng/searxng
 breakstring/gpt-sovits:latest-elite
+186184848/documentserver
